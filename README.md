@@ -23,7 +23,7 @@
 
 |                                                    강의                                                     |                            전공책                            | 기간 |                     참여자                      |
 | :---------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :--: | :---------------------------------------------: |
-|     [Intro to Database @ CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)     | [Database System Concepts 7th Ed.](https://www.db-book.com/) |      | @CoodingPenguin @jonyejin @IamGroooooot @Nagunt |
+|     [Intro to Database Systems @ CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)     | [Database System Concepts 7th Ed.](https://www.db-book.com/) |      | @CoodingPenguin @jonyejin @IamGroooooot @Nagunt |
 | [Advanced Database Systems @ CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) |                                                              |      |                                                 |
 |    [Distributed Systems @ MIT](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)    |                                                              |      |                                                 |
 |     [Missing Semester @ MIT](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)      |                                                              |      |                                                 |
