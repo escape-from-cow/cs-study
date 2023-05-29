@@ -21,9 +21,9 @@
 
 ## 📆 스터디 일정
 
-|                                                    강의                                                     |                                                               교수                                                               |                            전공책                            | 기간 | 참여자 |
-| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :--: | :----: |
-|     [Intro to Database @ CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)     |                                           [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/)                                           | [Database System Concepts 7th Ed.](https://www.db-book.com/) |      |        |
-| [Advanced Database Systems @ CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) |                                           [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/)                                           |                                                              |      |        |
-|    [Distributed Systems @ MIT](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)    |                                           [Robert Morris](http://nil.lcs.mit.edu/rtm/)                                           |                                                              |      |        |
-|     [Missing Semester @ MIT](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)      | [Anish Athalye](https://www.anishathalye.com/), [Jon Gjengset](https://thesquareplanet.com/), [Jose Javier](https://josejg.com/) |                                                              |      |        |
+|                                                    강의                                                     |                            전공책                            | 기간 | 참여자 |
+| :---------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :--: | :----: |
+|     [Intro to Database @ CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)     | [Database System Concepts 7th Ed.](https://www.db-book.com/) |      |        |
+| [Advanced Database Systems @ CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) |                                                              |      |        |
+|    [Distributed Systems @ MIT](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)    |                                                              |      |        |
+|     [Missing Semester @ MIT](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)      |                                                              |      |        |
