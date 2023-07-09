@@ -7,8 +7,16 @@
     </a>
     <h1>Intro to Database Systems</h1>
     <div>
-        <img src="https://img.shields.io/badge/%EA%B8%B0%EA%B0%84-2023.07.18%20~%202023.00.00-e76f51?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/참여자-펭귄,그루트,나강,렉사-faa307?style=for-the-badge"/>
+        <sup>📆 2023-07-18 ~ 2023-00-00</sup>
+    </div>
+    <div>
+        <sup>
+          👥  
+          <a href="https://github.com/CoodingPenguin">펭귄</a>
+          <a href="https://github.com/iamgroooooot">그루트</a>
+          <a href="https://github.com/nagunt">나강</a>
+          <a href="https://github.com/jonyejin">렉사</a>
+        </sup>
     </div>
 </div>
 
@@ -36,7 +44,7 @@
         <td>
             <div align="center">
                 <sup>
-                    📆 2023.07.18
+                    📆 2023-07-18
                 </sup>
             </div>
             <div align="center">
@@ -49,7 +57,7 @@
         <td>
             <div align="center">
                 <sup>
-                    📆 2023.07.18
+                    📆 2023-07-18
                 </sup>
             </div>
             <div align="center">
@@ -62,7 +70,7 @@
         <td>
             <div align="center">
                 <sup>
-                    📆 2023.07.18
+                    📆 2023-07-18
                 </sup>
             </div>
             <div align="center">

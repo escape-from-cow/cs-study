@@ -55,7 +55,7 @@
       <div>
         <sup>
           <strong>
-            📆 2023.07.18 ~ 2023.00.00
+            📆 2023-07-18 ~ 2023-00-00
           </strong>
         </sup>
       </div>
@@ -70,8 +70,8 @@
       </div>
       <div>
         <sup>
-          📋 
-          <a href="./01-cmu-intro-to-database-systems">스터디 자료</a> 
+          📝 
+          <a href="./01-cmu-intro-to-database-systems">스터디 일지</a> 
         </sup>
       </div>
     </td>
@@ -90,7 +90,7 @@
       </div>
       <div>
         <sup>
-          📋 Coming Soon...
+          📝 Coming Soon...
         </sup>
       </div>
     </td>
@@ -109,48 +109,7 @@
       </div>
       <div>
         <sup>
-          📋 Coming Soon...
-        </sup>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th style="text-align:center;">
-      Distributed Systems
-    </th>
-  </tr>
-  <tr>
-    <td style="align:center;">
-      <a
-        href="https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB"
-      >
-        <img
-          height="150px"
-          src="https://i.ytimg.com/vi/cQP8WApzIQQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBOBvlq7HIeVtbQIysCf2W1oRxDGg"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <sup>
-          <strong>
-            📆 Coming Soon...
-          </strong>
-        </sup>
-      </div>
-      <div>
-        <sup>
-          👥 To Be Determined...
-        </sup>
-      </div>
-      <div>
-        <sup>
-          📋 Coming Soon...
+          📝 Coming Soon...
         </sup>
       </div>
     </td>
