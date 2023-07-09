@@ -14,8 +14,63 @@
 
 ---
 
-|                자료                 | 스터디 일자 | 스터디 일지 |
-| :---------------------------------: | :---------: | :---------: |
-| [1강](https://youtu.be/uikbtpVZS2s) | 2023.07.18  |   [📝]()    |
-| [2강](https://youtu.be/II5qNuxfSoo) | 2023.07.18  |   [📝]()    |
-| [3강](https://youtu.be/df-l2PxUidI) | 2023.07.18  |   [📝]()    |
+<table>
+    <tr>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/uikbtpVZS2s">1강</a>
+            </div>
+        </th>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/II5qNuxfSoo">2강</a>
+            </div>
+        </th>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/df-l2PxUidI">3강</a>
+            </div>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <sup>
+                    📆 2023.07.18
+                </sup>
+            </div>
+            <div>
+                <sup>
+                    📝 
+                    <a href="">스터디 일지</a>
+                </sup>
+            </div>
+        </td>
+        <td>
+            <div>
+                <sup>
+                    📆 2023.07.18
+                </sup>
+            </div>
+            <div>
+                <sup>
+                    📝 
+                    <a href="">스터디 일지</a>
+                </sup>
+            </div>
+        </td>
+        <td>
+            <div>
+                <sup>
+                    📆 2023.07.18
+                </sup>
+            </div>
+            <div>
+                <sup>
+                    📝 
+                    <a href="">스터디 일지</a>
+                </sup>
+            </div>
+        </td>
+    </tr>
+</table>
