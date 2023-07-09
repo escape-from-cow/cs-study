@@ -34,12 +34,12 @@
     </tr>
     <tr>
         <td>
-            <div>
+            <div align="center">
                 <sup>
                     📆 2023.07.18
                 </sup>
             </div>
-            <div>
+            <div align="center">
                 <sup>
                     📝 
                     <a href="">스터디 일지</a>
@@ -47,12 +47,12 @@
             </div>
         </td>
         <td>
-            <div>
+            <div align="center">
                 <sup>
                     📆 2023.07.18
                 </sup>
             </div>
-            <div>
+            <div align="center">
                 <sup>
                     📝 
                     <a href="">스터디 일지</a>
@@ -60,12 +60,12 @@
             </div>
         </td>
         <td>
-            <div>
+            <div align="center">
                 <sup>
                     📆 2023.07.18
                 </sup>
             </div>
-            <div>
+            <div align="center">
                 <sup>
                     📝 
                     <a href="">스터디 일지</a>
