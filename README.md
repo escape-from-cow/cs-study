@@ -41,45 +41,45 @@
   <tr>
     <td style="text-align:center;">
       <div>
-        <small>
+        <sup>
           <strong>
             📆 2023.07.18 ~ 2023.00.00
           </strong>
-        </small>
+        </sup>
       </div>
       <div>
-        <small>
+        <sup>
           👥 
           <a href="https://github.com/CoodingPenguin">펭귄</a>
           <a href="https://github.com/iamgroooooot">그루트</a>
           <a href="https://github.com/nagunt">나강</a>
           <a href="https://github.com/jonyejin">렉사</a>
-        </small>
+        </sup>
       </div>
       <div>
-        <small>
+        <sup>
           📋 
           <a href="./01-cmu-intro-to-database-systems">스터디 자료</a> 
-        </small>
+        </sup>
       </div>
     </td>
     <td style="text-align:center;">
       <div>
-        <small>
+        <sup>
           <strong>
             📆 Coming Soon...
           </strong>
-        </small>
+        </sup>
       </div>
       <div>
-        <small>
+        <sup>
           👥 To Be Determined...
-        </small>
+        </sup>
       </div>
       <div>
-        <small>
+        <sup>
           📋 Coming Soon...
-        </small>
+        </sup>
       </div>
     </td>
   </tr>
