@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <img src="./logo.png"/>
   <h1>🧙 Mabub Study 🧙‍♂️</h1>
   <small>팀 마법(Team Mabub)의 전공 깎는 스터디</small>
 </div>
@@ -14,6 +15,9 @@
     </th>
     <th style="text-align:center;">
       Advanced Database Systems
+    </th>
+    <th style="text-align:center;">
+      Missing Semester
     </th>
   </tr>
   <tr>
@@ -37,17 +41,28 @@
           />
         </a>
     </td>
+    </td>
+      <td style="align:center;">
+        <a
+          href="https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J"
+        >
+          <img
+            height="150px"
+            src="https://i.ytimg.com/vi/Z56Jmr9Z34Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDMx3faO9vNgRS_siR4ksZ-S20tMw"
+          />
+        </a>
+    </td>
   </tr>
   <tr>
-    <td style="text-align:center;">
-      <div>
+    <td>
+      <div style="text-align:center;">
         <sup>
           <strong>
             📆 2023.07.18 ~ 2023.00.00
           </strong>
         </sup>
       </div>
-      <div>
+      <div style="text-align:center;">
         <sup>
           👥 
           <a href="https://github.com/CoodingPenguin">펭귄</a>
@@ -56,27 +71,46 @@
           <a href="https://github.com/jonyejin">렉사</a>
         </sup>
       </div>
-      <div>
+      <div style="text-align:center;">
         <sup>
           📋 
           <a href="./01-cmu-intro-to-database-systems">스터디 자료</a> 
         </sup>
       </div>
     </td>
-    <td style="text-align:center;">
-      <div>
+    <td>
+      <div style="text-align:center;">
         <sup>
           <strong>
             📆 Coming Soon...
           </strong>
         </sup>
       </div>
-      <div>
+      <div style="text-align:center;">
         <sup>
           👥 To Be Determined...
         </sup>
       </div>
-      <div>
+      <div style="text-align:center;">
+        <sup>
+          📋 Coming Soon...
+        </sup>
+      </div>
+    </td>
+    <td>
+      <div style="text-align:center;">
+        <sup>
+          <strong>
+            📆 Coming Soon...
+          </strong>
+        </sup>
+      </div>
+      <div style="text-align:center;">
+        <sup>
+          👥 To Be Determined...
+        </sup>
+      </div>
+      <div style="text-align:center;">
         <sup>
           📋 Coming Soon...
         </sup>
