@@ -22,7 +22,7 @@
         href="https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf"
       >
         <img
-          height="120px"
+          height="150px"
           src="https://i.ytimg.com/vi/uikbtpVZS2s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmNpsniFx3BvtYZIkhV1a1O-CBvw"
         />
       </a>
@@ -32,7 +32,7 @@
           href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn"
         >
           <img
-            height="120px"
+            height="150px"
             src="https://i.ytimg.com/vi/LWS8LEQAUVc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB5iXj7HpJt9ZRYj9lSk99lg1tnMQ"
           />
         </a>
