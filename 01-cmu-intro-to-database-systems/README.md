@@ -50,7 +50,7 @@
             <div align="center">
                 <sup>
                     📝 
-                    <a href="">스터디 일지</a>
+                    <a href="https://github.com/team-mabub/mabub-study/issues/1">스터디 일지</a>
                 </sup>
             </div>
         </td>
@@ -63,7 +63,7 @@
             <div align="center">
                 <sup>
                     📝 
-                    <a href="">스터디 일지</a>
+                    <a href="https://github.com/team-mabub/mabub-study/issues/2">스터디 일지</a>
                 </sup>
             </div>
         </td>
@@ -76,7 +76,7 @@
             <div align="center">
                 <sup>
                     📝 
-                    <a href="">스터디 일지</a>
+                    <a href="https://github.com/team-mabub/mabub-study/issues/3">스터디 일지</a>
                 </sup>
             </div>
         </td>
