@@ -1,7 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="./logo.png"/>
   <h1>🧙 Mabub Study 🧙‍♂️</h1>
   <small>팀 마법(Team Mabub)의 전공 깎는 스터디</small>
 </div>
