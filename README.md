@@ -55,14 +55,14 @@
   </tr>
   <tr>
     <td>
-      <div style="text-align:center;">
+      <div>
         <sup>
           <strong>
             📆 2023.07.18 ~ 2023.00.00
           </strong>
         </sup>
       </div>
-      <div style="text-align:center;">
+      <div>
         <sup>
           👥 
           <a href="https://github.com/CoodingPenguin">펭귄</a>
@@ -71,7 +71,7 @@
           <a href="https://github.com/jonyejin">렉사</a>
         </sup>
       </div>
-      <div style="text-align:center;">
+      <div>
         <sup>
           📋 
           <a href="./01-cmu-intro-to-database-systems">스터디 자료</a> 
@@ -79,38 +79,38 @@
       </div>
     </td>
     <td>
-      <div style="text-align:center;">
+      <div>
         <sup>
           <strong>
             📆 Coming Soon...
           </strong>
         </sup>
       </div>
-      <div style="text-align:center;">
+      <div>
         <sup>
           👥 To Be Determined...
         </sup>
       </div>
-      <div style="text-align:center;">
+      <div>
         <sup>
           📋 Coming Soon...
         </sup>
       </div>
     </td>
     <td>
-      <div style="text-align:center;">
+      <div>
         <sup>
           <strong>
             📆 Coming Soon...
           </strong>
         </sup>
       </div>
-      <div style="text-align:center;">
+      <div>
         <sup>
           👥 To Be Determined...
         </sup>
       </div>
-      <div style="text-align:center;">
+      <div>
         <sup>
           📋 Coming Soon...
         </sup>
