@@ -39,6 +39,16 @@
                 <a href="https://youtu.be/df-l2PxUidI">3강</a>
             </div>
         </th>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/2HtfGdsrwqA">4강</a>
+            </div>
+        </th>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/q4W5r3GR0OU">5강</a>
+            </div>
+        </th>
     </tr>
     <tr>
         <td>
@@ -77,6 +87,32 @@
                 <sup>
                     📝 
                     <a href="https://github.com/team-mabub/mabub-study/issues/3">스터디 일지</a>
+                </sup>
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <sup>
+                    📆 2023-07-25
+                </sup>
+            </div>
+            <div align="center">
+                <sup>
+                    📝 
+                    <a href="https://github.com/team-mabub/mabub-study/issues/4">스터디 일지</a>
+                </sup>
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <sup>
+                    📆 2023-07-25
+                </sup>
+            </div>
+            <div align="center">
+                <sup>
+                    📝 
+                    <a href="https://github.com/team-mabub/mabub-study/issues/5">스터디 일지</a>
                 </sup>
             </div>
         </td>
