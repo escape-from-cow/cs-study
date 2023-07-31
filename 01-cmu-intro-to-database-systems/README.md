@@ -49,6 +49,16 @@
                 <a href="https://youtu.be/q4W5r3GR0OU">5강</a>
             </div>
         </th>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/Y9H2HaRKOIw">6강</a>
+            </div>
+        </th>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/9yUlSabzVwQ">7강</a>
+            </div>
+        </th>
     </tr>
     <tr>
         <td>
