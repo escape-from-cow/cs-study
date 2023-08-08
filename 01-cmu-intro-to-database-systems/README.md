@@ -64,11 +64,6 @@
                 <a href="https://youtu.be/9QPr8Ufzt5M">8강</a>
             </div>
         </th>
-        <th>
-            <div align="center">
-                <a href="https://youtu.be/5KClozM1jjw">9강</a>
-            </div>
-        </th>
     </tr>
     <tr>
         <td>
@@ -172,19 +167,6 @@
                 <sup>
                     📝 
                     <a href="https://github.com/team-mabub/mabub-study/issues/8">스터디 일지</a>
-                </sup>
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <sup>
-                    📆 2023-08-08
-                </sup>
-            </div>
-            <div align="center">
-                <sup>
-                    📝 
-                    <a href="https://github.com/team-mabub/mabub-study/issues/9">스터디 일지</a>
                 </sup>
             </div>
         </td>
