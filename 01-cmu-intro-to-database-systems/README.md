@@ -64,6 +64,21 @@
                 <a href="https://youtu.be/9QPr8Ufzt5M">8강</a>
             </div>
         </th>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/5KClozM1jjw">9강</a>
+            </div>
+        </th>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/CMzf9Az1vl4">10강</a>
+            </div>
+        </th>
+        <th>
+            <div align="center">
+                <a href="https://youtu.be/yFk_GfaY2Hk">11강</a>
+            </div>
+        </th>
     </tr>
     <tr>
         <td>
