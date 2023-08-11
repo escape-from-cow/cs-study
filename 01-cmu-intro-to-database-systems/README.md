@@ -170,5 +170,44 @@
                 </sup>
             </div>
         </td>
+        <td>
+            <div align="center">
+                <sup>
+                    📆 2023-08-08
+                </sup>
+            </div>
+            <div align="center">
+                <sup>
+                    📝 
+                    <a href="https://github.com/team-mabub/mabub-study/issues/9">스터디 일지</a>
+                </sup>
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <sup>
+                    📆 2023-08-15
+                </sup>
+            </div>
+            <div align="center">
+                <sup>
+                    📝 
+                    <a href="https://github.com/team-mabub/mabub-study/issues/10">스터디 일지</a>
+                </sup>
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <sup>
+                    📆 2023-08-15
+                </sup>
+            </div>
+            <div align="center">
+                <sup>
+                    📝 
+                    <a href="https://github.com/team-mabub/mabub-study/issues/11">스터디 일지</a>
+                </sup>
+            </div>
+        </td>
     </tr>
 </table>
