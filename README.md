@@ -57,27 +57,27 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:center;">기간</th>
-      <th style="text-align:center;">자료</th>
-      <th style="text-align:center;">팀원</th>
-      <th style="text-align:center;">일지</th>
+      <th align="center">기간</th>
+      <th align="center">자료</th>
+      <th align="center">팀원</th>
+      <th align="center">일지</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center;">
+      <td align="center">
         2023년 7월 18일 ~ 
       </td>
-      <td style="text-align:center;">
+      <td align="center">
         <a href="https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf">Intro to Database Systems</a>
       </td>
-      <td style="text-align:center;">
+      <td align="center">
         <a href="https://github.com/CoodingPenguin">펭귄</a>,
         <a href="https://github.com/iamgroooooot">그루트</a>,
         <a href="https://github.com/nagunt">나강</a>,
         <a href="https://github.com/jonyejin">렉사</a>
       </td>
-      <td style="text-align:center;">
+      <td align="center">
         <a href="./01-cmu-intro-to-database-systems">📝</a>
       </td>
     </tr>
