@@ -66,7 +66,7 @@
   <tbody>
     <tr>
       <td style="text-align:center;">
-        2023-07-18 ~ 
+        2023년 7월 18일 ~ 
       </td>
       <td style="text-align:center;">
         <a href="https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf">Intro to Database Systems</a>
