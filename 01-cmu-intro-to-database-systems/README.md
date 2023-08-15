@@ -10,13 +10,12 @@
 
 ---
 
-## 📆 스터디 기간
+## 📌 스터디 개요
 
-2023년 7월 18일 ~
+- `기간`: 2023년 7월 18일 ~
+- `자료`: [Intro to Database Systems - CMU Database Group](https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
 
-## 📁 스터디 자료
-
-[Intro to Database Systems - CMU Database Group](https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
+---
 
 ## 👥 스터디원
 
@@ -50,6 +49,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ## 📝 스터디 일지
 
@@ -110,7 +111,7 @@
     <tr>
         <td style="text-align:center;">2023년 8월 22일</td>
         <td><a href="https://15445.courses.cs.cmu.edu/fall2022/project1/">프로젝트 1 - Buffer Pool Manager</a></td>
-        <td style="text-align:center;"><a href="https://github.com/team-mabub/mabub-study/issues/11">📝</a></td>
+        <td style="text-align:center;"><a href="https://github.com/team-mabub/mabub-study/issues/12">📝</a></td>
     </tr>
   </tbody>
 </table>
