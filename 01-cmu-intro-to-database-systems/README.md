@@ -14,41 +14,7 @@
 
 - `기간`: 2023년 7월 18일 ~
 - `자료`: [Intro to Database Systems - CMU Database Group](https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
-
----
-
-## 👥 스터디원
-
-<table>
-  <tr height="160px">
-    <th align="center" width="150px">
-      <a href="https://github.com/CoodingPenguin"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4"/>
-    </th>
-    <th align="center" width="150px">
-      <a href="https://github.com/iamgroooooot"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/38830620?v=4"/></a>
-    </th>
-    <th align="center" width="150px">
-      <a href="https://github.com/jonyejin"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/77298353?v=4"/></a>
-    </th>
-    <th align="center" width="150px">
-      <a href="https://github.com/nagunt"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/19218446?v=4"/></a>
-    </th>
-  </tr>
-  <tr>
-    <td align="center" width="150px">
-      <a href="https://github.com/coodingpenguin"><strong>펭귄</strong></a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/iamgroooooot"><strong>그루트</strong></a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/jonyejin"><strong>렉사</strong></a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/nagunt"><strong>나강</strong></a>
-    </td>
-  </tr>
-</table>
+- `스터디원`: [펭귄](https://github.com/CoodingPenguin), [그루트](https://github.com/iamgroooooot), [나강](https://github.com/nagunt), [렉사](https://github.com/jonyejin)
 
 ---
 

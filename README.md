@@ -72,12 +72,10 @@
         <a href="https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf">Intro to Database Systems</a>
       </td>
       <td style="text-align:center;">
-        <small>
-          <a href="https://github.com/CoodingPenguin">펭귄</a>
-          <a href="https://github.com/iamgroooooot">그루트</a>
-          <a href="https://github.com/nagunt">나강</a>
-          <a href="https://github.com/jonyejin">렉사</a>
-        </small>
+        <a href="https://github.com/CoodingPenguin">펭귄</a>,
+        <a href="https://github.com/iamgroooooot">그루트</a>,
+        <a href="https://github.com/nagunt">나강</a>,
+        <a href="https://github.com/jonyejin">렉사</a>
       </td>
       <td style="text-align:center;">
         <a href="./01-cmu-intro-to-database-systems">📝</a>
