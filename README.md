@@ -54,32 +54,6 @@
 
 ## 📄 스터디 일지
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">기간</th>
-      <th align="center">자료</th>
-      <th align="center">팀원</th>
-      <th align="center">일지</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        2023년 7월 18일 ~ 
-      </td>
-      <td align="center">
-        <a href="https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf">Intro to Database Systems</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/CoodingPenguin">펭귄</a>,
-        <a href="https://github.com/iamgroooooot">그루트</a>,
-        <a href="https://github.com/nagunt">나강</a>,
-        <a href="https://github.com/jonyejin">렉사</a>
-      </td>
-      <td align="center">
-        <a href="./01-cmu-intro-to-database-systems">📝</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+|       기간        |                                               자료                                                |           팀원           |                   일지                   |
+| :---------------: | :-----------------------------------------------------------------------------------------------: | :----------------------: | :--------------------------------------: |
+| 2023년 7월 18일 ~ | [Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) | 펭귄, 그루트, 나강, 렉사 | [📝](./01-cmu-intro-to-database-systems) |
