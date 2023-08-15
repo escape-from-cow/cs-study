@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🧙 Mabub Study 🧙‍♂️</h1>
-  <small>팀 마법(Team Mabub)의 전공 깎는 스터디</small>
+  <p><i>팀 마법(Team Mabub)의 전공 깎는 스터디</i></p>
 </div>
 
 ---

@@ -6,6 +6,7 @@
         <img src="https://i.ytimg.com/vi/uikbtpVZS2s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmNpsniFx3BvtYZIkhV1a1O-CBvw"/>
     </a>
     <h1>Intro to Database Systems</h1>
+    <p><i>This course is on the design and implementation of database management systems</i></p>
 </div>
 
 ---
