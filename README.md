@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🖥️ CS Study 📚</h1>
-  <p><i>흑우들의 전공 깎는 스터디</i></p>
+  <h1>CS Study</h1>
+  <p><i>블랙말랑카우의 전공 깎는 스터디</i></p>
 </div>
 
 ---
